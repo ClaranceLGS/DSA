@@ -63,7 +63,7 @@ int main() {
 
     
 
-    int start = 5; // Source city
+    int start = 0; // Source city
 
     vector<int> result = dijkstra(n, graph, start);
 
